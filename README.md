@@ -25,7 +25,9 @@ O DevRadar é um projeto que visa facilitar a busca por desenvolvedores que resi
 
 ## Getting started
 
-<h1 align="center"><img align="center" src="./static/web.gif" alt="Omnistack 10 Web" width="700"></img></h1>
+
+![web](https://user-images.githubusercontent.com/43486606/75567736-c350bd80-5a30-11ea-98df-8f5ce8eaeaac.gif)
+<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/43486606/75567736-c350bd80-5a30-11ea-98df-8f5ce8eaeaac.gif" alt="Omnistack 10 Web" width="700"></img></h1>
 
 ### Instalação - Backend
 Clone o projeto em seu computador. Configure o MongoDB e crie uma arquivo **.env** para passar a string de conexão com seu `User:Senha`na propriedade MONGO_URL.  
