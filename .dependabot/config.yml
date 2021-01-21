@@ -5,3 +5,7 @@ update_configs:
   - package_manager: "javascript"
     directory: "/backend/"
     update_schedule: "live"
+
+  - package_manager: "javascript"
+    directory: "/web/"
+    update_schedule: "live"
