@@ -10,7 +10,7 @@
     "axios": "^0.22.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongoose": "^6.0.9",
+    "mongoose": "^6.0.10",
     "yarn": "^1.22.15"
   },
   "devDependencies": {
